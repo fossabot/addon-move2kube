@@ -1,4 +1,6 @@
 # Konveyor Addon - Move2Kube
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Faddon-move2kube.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Faddon-move2kube?ref=badge_shield)
+
 
 This project exposes Konveyor's Move2Kube tool https://github.com/konveyor/move2kube as an addon for Tackle 2 Hub https://github.com/konveyor/tackle2-hub , enabling applications to have container images and Kubernetes manifests built for them.
 
@@ -72,3 +74,7 @@ string                 output-dir
 string                 config-base64
 map[string]interface{} config
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Faddon-move2kube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Faddon-move2kube?ref=badge_large)
